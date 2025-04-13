@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Dinushika Gedarawattage</h1>
 <!-- <h3 align="center">A passionate cloud developer from Sri Lanka</h3> -->
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=d2109625&label=Profile%20views&color=0e75b6&style=flat" alt="d2109625" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=DinushikaGedarawattage&label=Profile%20views&color=0e75b6&style=flat" alt="DinushikaGedarawattage" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=d2109625" alt="d2109625" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=DinushikaGedarawattage" alt="DinushikaGedarawattage" /></a> </p>
 
 ---
 
@@ -30,8 +30,8 @@
 
 ---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=d2109625&show_icons=true&locale=en&layout=compact" alt="d2109625" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=DinushikaGedarawattage&show_icons=true&locale=en&layout=compact" alt="DinushikaGedarawattage" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=d2109625&show_icons=true&locale=en" alt="d2109625" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=DinushikaGedarawattage&show_icons=true&locale=en" alt="DinushikaGedarawattage" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=d2109625&" alt="d2109625" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DinushikaGedarawattage&" alt="DinushikaGedarawattage" /></p>
