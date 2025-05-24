@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dinushika Gedarawattage</h1>
-<img align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/media/b08ab576316bd4582fef189f471cd9e5.gif">
+
 <!-- <h3 align="center">A passionate cloud developer from Sri Lanka</h3> -->
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=DinushikaGedarawattage&label=Profile%20views&color=0e75b6&style=flat" alt="DinushikaGedarawattage" /> </p>
@@ -10,6 +10,9 @@
 
 
 ---
+
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/media/b08ab576316bd4582fef189f471cd9e5.gif">
+
 
 - 🌱 I’m currently learning **BSc Computer Science Degree at UCSC**
 
