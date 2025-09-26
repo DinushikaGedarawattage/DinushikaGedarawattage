@@ -16,7 +16,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@dinushikagedarawatta](https://medium.com/@dinushikagedarawatta)
 
-- 👨‍💻 All of my projects are available at [visit_portfolio](https://dinushikagedarawatt)
+- 👨‍💻 All of my projects are available at [visit_portfolio](https://dinushikagedarawattage.github.io/My_portfolio/)
 
 - 📫 How to reach me **Dinushikagedarawatta@gmail.com**
 
